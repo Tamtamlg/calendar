@@ -1,4 +1,4 @@
-# husky-frontend
+# calendar
 
 ## Project setup
 ```
